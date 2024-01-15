@@ -1,3 +1,3 @@
 # Meta Front-End Developer Professional Certificate
 
-<img src="./meta-logo.png" width=150>
+<img src="./meta.png" width=100%>
